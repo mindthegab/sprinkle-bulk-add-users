@@ -16,7 +16,7 @@ A very simple javascript script that will help you bulk add users in your Sympho
 
 ^ (certificates should be obtained from your internal PKI infrastructure, or refer to Certificate Generator for Windows PDF Instructions for more information)
 
-## Brief
+## Instructions
 
 1) Run `npm install` to install all the node modules dependencies.
 
